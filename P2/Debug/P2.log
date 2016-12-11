@@ -1,0 +1,24 @@
+﻿Build started 12/11/2016 9:29:48 PM.
+Project "C:\Users\LeMinhSon\documents\visual studio 2013\Projects\P2\P2\P2.vcxproj" on node 2 (Build target(s)).
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\P2.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt P2.cpp
+  P2.cpp
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(142): warning C4101: 'hdcScreen' : unreferenced local variable
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(142): warning C4101: 'dc' : unreferenced local variable
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(147): warning C4101: 'i' : unreferenced local variable
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(148): warning C4101: 'hbmp' : unreferenced local variable
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(146): warning C4101: 'bmpScreen' : unreferenced local variable
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(143): warning C4101: 'hdcWindow' : unreferenced local variable
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(230): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(245): warning C4554: '&' : check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\leminhson\documents\visual studio 2013\projects\p2\p2\p2.cpp(263): warning C4101: 'bmpScreen' : unreferenced local variable
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\LeMinhSon\documents\visual studio 2013\Projects\P2\Debug\P2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\LeMinhSon\documents\visual studio 2013\Projects\P2\Debug\P2.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\LeMinhSon\documents\visual studio 2013\Projects\P2\Debug\P2.lib" /MACHINE:X86 Debug\P2.res
+  Debug\P2.obj
+  Debug\stdafx.obj
+  P2.vcxproj -> C:\Users\LeMinhSon\documents\visual studio 2013\Projects\P2\Debug\P2.exe
+Done Building Project "C:\Users\LeMinhSon\documents\visual studio 2013\Projects\P2\P2\P2.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.01
